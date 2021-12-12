@@ -6,10 +6,7 @@ This extension helps you access overtrue/wechat application in a simple & famili
 
 WeChat SDK for Yii2 , Based on [overtrue/wechat](https://github.com/overtrue/wechat).     
 This extension makes it easy to use yii2 to call EasyWechat:   `Yii::$app->wechat`.   
-
-[![Latest Stable Version](https://poser.pugx.org/hjp1011/yii2-easy-wechat/v/stable)](https://packagist.org/packages/hjp1011/yii2-easy-wechat)
-[![Total Downloads](https://poser.pugx.org/hjp1011/yii2-easy-wechat/downloads)](https://packagist.org/packages/hjp1011/yii2-easy-wechat)
-[![License](https://poser.pugx.org/hjp1011/yii2-easy-wechat/license)](https://packagist.org/packages/hjp1011/yii2-easy-wechat)
+[![Latest Stable Version](http://poser.pugx.org/hjp1011/yii2-easy-wechat/v)](https://packagist.org/packages/hjp1011/yii2-easy-wechat) [![Total Downloads](http://poser.pugx.org/hjp1011/yii2-easy-wechat/downloads)](https://packagist.org/packages/hjp1011/yii2-easy-wechat) [![Latest Unstable Version](http://poser.pugx.org/hjp1011/yii2-easy-wechat/v/unstable)](https://packagist.org/packages/hjp1011/yii2-easy-wechat) [![License](http://poser.pugx.org/hjp1011/yii2-easy-wechat/license)](https://packagist.org/packages/hjp1011/yii2-easy-wechat) [![PHP Version Require](http://poser.pugx.org/hjp1011/yii2-easy-wechat/require/php)](https://packagist.org/packages/hjp1011/yii2-easy-wechat)
 
 ## Install
 ```
